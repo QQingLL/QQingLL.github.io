@@ -1,0 +1,83 @@
+body {
+  background: #FFFFD4;
+}
+
+h1 {
+  border-bottom: 5px dashed red;
+  text-align: center;
+}
+
+.QQQ {
+  color: #F7C261;
+}
+
+.hhh {
+  color: #FF6D2C;
+}
+
+#pimage {
+  text-align: center;
+}
+
+a:hover {
+  color: #C64D92;
+}
+
+.lll {
+  color: #D73A3A;
+  text-decoration: none;
+}
+
+address {
+  text-align: center;
+}
+
+/*font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive; */
+#selfintroduce {
+  font-family: "Indie Flower";
+  font-variant: small-caps;
+  font-size: 20px
+}
+
+#add {
+  font-family: "Permanent Marker";
+}
+
+.navigation {
+  list-style: none;
+  padding-left: 0;
+  background-color: white;
+  padding: 10px;
+}
+
+.navigation li {
+  display: inline-block;
+  margin-left: 60px;
+}
+
+.navigation a {
+  font-size: 20px;
+  color: orange;
+}
+
+.navigation a:hover {
+  font-weight: normal;
+  background-color: red;
+  color: white
+}
+
+ul {
+  list-style: square;
+}
+
+table {
+  border-color: lightblue;
+  border-collapse: collapse;
+}
+#worke {
+  text-align: center;
+}
+#ski{
+  text-align: right;
+}
