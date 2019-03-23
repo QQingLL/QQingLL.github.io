@@ -5,7 +5,10 @@
 
 
 }
-
+.bbb{
+  text-align: center;
+  font-family: Satisfy;
+}
 nav ul{
   display: grid;
   grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
@@ -29,17 +32,22 @@ h2 {
   letter-spacing: 0.5em;
   text-align: center;
   text-transform: uppercase;
+  color: #FF9E1A;
 }
 .self{
-  background-color: #cccccc;
-  color: #ffffff;
+  background-color: #FFDADA;
+  color: #FF4040;
   text-shadow: 2px 2px 7px #111111;
+  font-family: Merriweather;
+  text-align: center;
 }
+
 .ppp{
   border: outset;
   width: 900px;
   text-align: center;
 margin: auto;
+color: #FFB8B8;
 }
 .article6 {
   display: grid;
@@ -78,4 +86,17 @@ grid-template-columns: 1fr 1fr ;
   width: 300px;
   min-height: 200px;
   float: right;
+
+}
+.a3 p{
+  font-size: 20px;
+  color: #15199F
+}
+.s5{
+  display: grid;
+grid-template-columns: 2fr 2fr 2fr;
+}
+.aa{
+  font-size: 25px;
+  color: #FFCB97;
 }

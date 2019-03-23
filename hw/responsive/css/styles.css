@@ -11,6 +11,7 @@ a {text-decoration: none;
 text-transform: uppercase;}
 #head1{
   text-transform: uppercase;
+  font-family:Lobster;
 }
 img{
   max-width: 100%;
@@ -21,5 +22,22 @@ img{
 
 body,html {
   padding: 10px;
-  margin: 15px;
+  margin: 25px;
 }
+.ppp{
+  font-family: Merriweather;
+
+}
+.a3{
+  font-family: Shadows Into Light;
+
+}
+.aa{
+font-family:  Satisfy;
+}
+/*font-family: 'Germania One', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Satisfy', cursive;*/
