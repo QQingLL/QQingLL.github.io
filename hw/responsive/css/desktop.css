@@ -8,7 +8,7 @@
 
 nav ul{
   display: grid;
-  grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
 padding-bottom: 25px;
 
 }
@@ -37,7 +37,7 @@ h2 {
 }
 .ppp{
   border: outset;
-  width: 700px;
+  width: 900px;
   text-align: center;
 margin: auto;
 }
@@ -45,6 +45,13 @@ margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
-img{
+.column1, .column2{
+  width: 460px;
+  float: left;
+  margin:10px;
+  text-align: center;
 
+}
+.clear{
+  clear:both;
 }
