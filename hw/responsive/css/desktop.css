@@ -45,13 +45,37 @@ margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
-.column1, .column2{
+.column1{
+
   width: 300px;
-  float: left;
-  margin:10px;
+float: right;
+  margin:20px;
   text-align: center;
 
 }
+.column2{
+  width: 300px;
+float: left;
+  margin:20px;
+  text-align: center;
+}
 .clear{
   clear:both;
+}
+.article2{
+  display: grid;
+grid-template-columns: 1fr 1fr ;
+
+}
+.a2{
+  display: block;
+  min-height: 300px;
+  width: 600px;
+  float: left;
+}
+.a3{
+  display: block;
+  width: 300px;
+  min-height: 200px;
+  float: right;
 }
