@@ -1,0 +1,26 @@
+
+
+nav ul li {
+  text-align: center;
+}
+nav ul li a {
+  color: #3861B0;
+
+}
+header{
+  background-color: black;
+}
+#head1{
+color: white;
+}
+h2 {
+  text-align: left;
+  letter-spacing: 0.8em;
+  text-transform: uppercase;
+}
+.ppp{
+
+
+  text-align: center;
+margin: 15px;
+}

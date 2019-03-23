@@ -1,0 +1,50 @@
+
+.article1{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+
+
+}
+
+nav ul{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+padding-bottom: 25px;
+
+}
+nav ul li a {
+  font-size: 20px;
+  background-color: #FFF2C5;
+  color: #DE2A2A;
+
+}
+nav ul li a:hover{
+  background-color:#DE2A2A;
+  color: #FFF2C5;
+}
+header{
+  background-color: white;
+}
+h2 {
+  letter-spacing: 0.5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+.self{
+  background-color: #cccccc;
+  color: #ffffff;
+  text-shadow: 2px 2px 7px #111111;
+}
+.ppp{
+  border: outset;
+  width: 700px;
+  text-align: center;
+margin: auto;
+}
+.article6 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+img{
+
+}
