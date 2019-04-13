@@ -1,15 +1,13 @@
 body {
   text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #FFAAAA;
+  color: #6DB1CE;
 }
-thumbnailHoverEffect2: {
-      name:           'image_blur_0.00px_2.00px',
-      delay:          0,
-      duration:       400,
-      easing:         'easeOutQuart',
-      delayBack:      0,
-      durationBack:   300,
-      easingBack:     'easeOutQuart',
-      hoverin:        true,
-      hoverout:       true,
-      firstKeyframe:  true
-    }
+/*font-family: 'Merriweather', serif;*/
+#my_nanogallery2 a:hover {
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
