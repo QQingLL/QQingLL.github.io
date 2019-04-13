@@ -5,9 +5,3 @@ body {
   color: #6DB1CE;
 }
 /*font-family: 'Merriweather', serif;*/
-#my_nanogallery2 a:hover {
-  -webkit-transform: scale(1);
-	transform: scale(1);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
-}
