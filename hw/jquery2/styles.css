@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+thumbnailHoverEffect2: {
+      name:           'image_blur_0.00px_2.00px',
+      delay:          0,
+      duration:       400,
+      easing:         'easeOutQuart',
+      delayBack:      0,
+      durationBack:   300,
+      easingBack:     'easeOutQuart',
+      hoverin:        true,
+      hoverout:       true,
+      firstKeyframe:  true
+    }
